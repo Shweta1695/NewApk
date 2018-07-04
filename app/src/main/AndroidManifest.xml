@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".NewUser" />
-        <activity android:name=".RecyclerActivity"></activity>
+        <activity android:name=".ContactDetails"></activity>
     </application>
 
 </manifest>

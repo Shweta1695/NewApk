@@ -1,3 +1,46 @@
 <resources>
     <string name="app_name">ApkNew</string>
+    
+    <string-array name="person_name">
+    <item>"abc"</item>
+        <item>"a"</item>
+        <item>"b"</item>
+        <item>"c"</item>
+        <item>"d"</item>
+        <item>"e"</item>
+        <item>"f"</item>
+        <item>"g"</item>
+        <item>"h"</item>
+        <item>"i"</item>
+        <item>"j"</item>
+    </string-array>
+
+    <string-array name="person_email">
+        <item>abc@xyz.com</item>
+        <item>a@xyz.com</item>
+        <item>b@xyz.com</item>
+        <item>c@xyz.com</item>
+        <item>d@xyz.com</item>
+        <item>e@xyz.com</item>
+        <item>f@xyz.com</item>
+        <item>g@xyz.com</item>
+        <item>h@xyz.com</item>
+        <item>i@xyz.com</item>
+        <item>j@xyz.com</item>
+    </string-array>
+
+    <string-array name="person_mobile">
+        <item>"123"</item>
+        <item>"234"</item>
+        <item>"4565476"</item>
+        <item>"7856"</item>
+        <item>"345346"</item>
+        <item>"234234"</item>
+        <item>"345213"</item>
+        <item>"7897"</item>
+        <item>"0876"</item>
+        <item>"467"</item>
+        <item>"7822"</item>
+    </string-array>
+
 </resources>
